@@ -1,0 +1,6 @@
+data/
+*.pth
+*.nii
+*.nii.gz
+*.log
+__pycache__/
